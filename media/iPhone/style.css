@@ -1,0 +1,79 @@
+.hidden {
+    display: none;
+}
+
+*, body {
+    margin: 0px;
+    padding: 0px;
+    height: 480;
+    width: 320;
+}
+
+div#layout {
+    height: 480;
+    width: 320;
+    background-image: url('background.png');
+}
+
+div#artwork {
+    width: 282px;
+    height: 282px;
+    position: relative;
+    left: 45px;
+    top: 20px;
+}
+
+img#j2_artwork {
+    width: 220px;
+    height: 220px;
+    border: 1px solid #fff;
+}
+
+div#control_strip {
+    margin: 0px;
+    width: 318px;
+    height: 70px;
+    background: #000;
+    border: 1px solid #fff;
+    position: fixed;
+    top: 260px;
+}
+
+div#j2_controls {
+    position: relative;
+    width: 250px;
+    height: 64px;
+    margin: 0px;
+    padding: 0px;
+    left: 34px;
+    top: -1px;
+}
+
+button {
+    border-style: none;
+}
+
+button#j2_pause {
+    background: url('control_buttons.png');
+    width: 78px;
+    height: 64px;
+    background-position: 78px 0;
+}
+button#j2_next {
+    background: url('control_buttons.png');
+    width: 78px;
+    height: 64px;
+    background-position: 156px 0;
+}
+button#j2_play {
+    background: url('control_buttons.png');
+    width: 78px;
+    height: 64px;
+    background-position: 0px 0;
+}
+button#j2_prev {
+    background: url('control_buttons.png');
+    width: 78px;
+    height: 64px;
+    background-position: 234px 0;
+}
