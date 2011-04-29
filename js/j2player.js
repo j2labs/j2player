@@ -2,10 +2,8 @@
 /// Song Handling
 ///
 
+/// Minimum Viable Song 
 var Song = function(url, name, artist, album, artwork) {
-    ///
-    /// Minimum Viable Song 
-    ///
     var self = this;
     self.url = url;
     self.name = name;
