@@ -7,9 +7,9 @@ It currently supports HTML5 enabled devices with flash support on the way.
 
 ## Examples
 
-[j2d2.html](http://dl.dropbox.com/u/1287616/j2player/j2d2.html) : This example shows a hard coded playlist of some bands I played in over the years. *I know... So shameless!*
+[Coding Soundtrack](http://j2labs.tumblr.com/playlist) : This example get it's playlist from [my code blog](http://j2labs.tumblr.com). It then queries last.fm for album artwork.
 
-[index.html](http://dl.dropbox.com/u/1287616/j2player/index.html) : This example get it's playlist from [my code blog](http://j2labs.tumblr.com). It then queries last.fm for album artwork.
+[j2d2.html](http://dl.dropbox.com/u/1287616/j2player/j2d2.html) : This example shows a hard coded playlist of some bands I played in over the years. *I know... So shameless!*
 
 ## Screenshot
 
