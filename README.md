@@ -15,4 +15,4 @@ It currently supports HTML5 enabled devices with flash support on the way.
 
 Here is what it looks!
 
-![j2player screenshot](/j2labs/j2player/raw/master/screenshot.png)
+![j2player screenshot](https://raw.githubusercontent.com/j2labs/j2player/master/screenshot.png)
